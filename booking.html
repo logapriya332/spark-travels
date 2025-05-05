@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Booking Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      background-color: #f2f2f2;
+    }
+    .booking-box {
+      background: white;
+      max-width: 500px;
+      margin: auto;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+    p {
+      margin: 10px 0;
+      color: #555;
+    }
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+  <div class="booking-box" id="booking-info">
+    <!-- Booking details will appear here -->
+  </div>
+
+ <script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const params = new URLSearchParams(window.location.search);
+    const pickup = params.get("pickup");
+    const destination = params.get("destination");
+    const type = params.get("type");
+    const departure = params.get("departure");
+    const arrival = params.get("arrival");
+    const fare = params.get("fare");
+    const seats = params.get("seats");
+
+    if (!pickup || !destination || !type) {
+      document.getElementById("booking-info").innerHTML = "<p>Error: Missing booking information.</p>";
+      return;
+    }
+
+    document.getElementById("booking-info").innerHTML = `
+      <h2>Booking Details</h2>
+      <p><strong>From:</strong> ${pickup}</p>
+      <p><strong>To:</strong> ${destination}</p>
+      <p><strong>Bus Type:</strong> ${type}</p>
+      <p><strong>Departure Time:</strong> ${departure}</p>
+      <p><strong>Arrival Time:</strong> ${arrival}</p>
+      <p><strong>Fare:</strong> ₹${fare}</p>
+      <p><strong>Seats Available:</strong> ${seats}</p>
+      <button onclick="confirmBooking()">Confirm Booking</button>
+    `;
+  });
+
+  function confirmBooking() {
+    window.location.href = "success.html";
+  }
+</script>
+
+</body>
+</html>

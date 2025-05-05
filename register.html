@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Create Account - Spark Travels</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body, html {
+      height: 100%;
+      font-family: 'Segoe UI', sans-serif;
+      color: white;
+      overflow: hidden;
+    }
+
+    .video-bg {
+      position: fixed;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      min-height: 100%;
+      object-fit: cover;
+      z-index: -1;
+      filter: brightness(0.6);
+    }
+
+    header {
+      background-color: rgba(0, 119, 182, 0.8);
+      padding: 20px 30px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+
+    nav {
+      margin-top: 10px;
+    }
+
+    nav a {
+      color: white;
+      margin: 0 12px;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    .container {
+      max-width: 420px;
+      margin: 80px auto;
+      padding: 40px 30px;
+      background-color: rgba(0, 0, 0, 0.2);
+      border-radius: 12px;
+      box-shadow: 0 0 25px rgba(0,0,0,0.8);
+      backdrop-filter: blur(5px);
+      animation: fadeIn 1s ease;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    form input {
+      width: 100%;
+      padding: 12px;
+      margin: 12px 0;
+      border: none;
+      border-radius: 6px;
+      background-color: #f1f1f1;
+      color: #333;
+      font-size: 15px;
+    }
+
+    form button {
+      width: 100%;
+      padding: 12px;
+      margin-top: 10px;
+      border: none;
+      border-radius: 6px;
+      background-color: #0077b6;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    form button:hover {
+      background-color: #005f8a;
+    }
+
+    footer {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      padding: 12px;
+      text-align: center;
+      background-color: rgba(0, 119, 182, 0.8);
+      font-size: 14px;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ✅ Background Video -->
+  <video class="video-bg" autoplay muted loop>
+    <source src="https://cdn.pixabay.com/video/2024/10/06/234923_small.mp4" type="video/mp4">
+    Your browser does not support HTML5 video.
+  </video>
+
+  <!-- Header -->
+  <header>
+    <h1>Spark Travels</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="tours.html">Tours</a>
+      <a href="about.html">About</a>
+      <a href="booking.html">Booking</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Create Account Form -->
+  <div class="container">
+    <h2>Create Your Account</h2>
+   <form onsubmit="return handleRegistration()">
+  <input type="text" name="fullname" placeholder="Full Name" required />
+  <input type="email" name="email" placeholder="Email Address" required />
+  <input type="text" name="username" placeholder="Choose Username" required />
+
+  <input type="password" name="password" placeholder="Create Password" required oninput="checkPasswordStrength(this.value)" />
+  <span id="strengthMsg" style="font-size: 13px; display: block; margin-bottom: 10px;"></span>
+
+  <input type="password" name="confirm_password" placeholder="Confirm Password" required />
+
+  <button type="submit">Register</button>
+</form>
+
+
+  </div>
+
+
+
+
+
+
+  <!-- Footer -->
+  <footer>
+    &copy; 2025 Spark Travels. All rights reserved.
+  </footer> 
+
+  <script>
+    function handleRegistration() {
+    const password = document.querySelector('input[name="password"]').value.trim();
+    const confirmPassword = document.querySelector('input[name="confirm_password"]').value.trim();
+
+    if (password !== confirmPassword) {
+      alert("Passwords do not match!");
+      return false; // Prevent form submission
+    }
+
+    // Optionally, save to localStorage for fake login
+    const username = document.querySelector('input[name="username"]').value.trim();
+
+    const userData = {
+      username: username,
+      password: password,
+    };
+
+    localStorage.setItem("user", JSON.stringify(userData));
+
+    alert("Account created successfully!");
+    window.location.href = "home.html"; // ✅ redirect to login page
+    return false;
+  }
+   
+  function checkPasswordStrength(password) {
+    const strengthMsg = document.getElementById("strengthMsg");
+
+    const strongRegex = new RegExp("^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*#?&])[A-Za-z\\d@$!%*#?&]{8,}$");
+    const mediumRegex = new RegExp("^(((?=.*[a-z])(?=.*[A-Z]))|((?=.*[a-z])(?=.*\\d))|((?=.*[A-Z])(?=.*\\d)))[A-Za-z\\d]{6,}$");
+
+    if (strongRegex.test(password)) {
+      strengthMsg.textContent = "Strong password";
+      strengthMsg.style.color = "green";
+    } else if (mediumRegex.test(password)) {
+      strengthMsg.textContent = "Medium password (add special characters to strengthen)";
+      strengthMsg.style.color = "orange";
+    } else {
+      strengthMsg.textContent = "Weak password (use 8+ characters, mix of upper/lower, numbers & symbols)";
+      strengthMsg.style.color = "red";
+    }
+  }
+</script>
+
+
+
+</body>
+</html>

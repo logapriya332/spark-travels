@@ -1,0 +1,2002 @@
+[
+  {
+    "pickup": "Chennai",
+    "destination": "Mumbai",
+    "busType": "Non-AC Sleeper",
+    "departure": "22:15",
+    "operator": "Orange Tours",
+    "price": 1130
+  },
+  {
+    "pickup": "Nagpur",
+    "destination": "Ahmedabad",
+    "busType": "Non-AC Sleeper",
+    "departure": "05:30",
+    "operator": "Orange Tours",
+    "price": 937
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Erode",
+    "busType": "Non-AC Sleeper",
+    "departure": "20:15",
+    "operator": "Greenline",
+    "price": 1094
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Pune",
+    "busType": "AC Sleeper",
+    "departure": "07:30",
+    "operator": "Parveen Travels",
+    "price": 829
+  },
+  {
+    "pickup": "Erode",
+    "destination": "Visakhapatnam",
+    "busType": "Seater",
+    "departure": "06:30",
+    "operator": "SRS Travels",
+    "price": 547
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Bangalore",
+    "busType": "AC Sleeper",
+    "departure": "22:15",
+    "operator": "VRL",
+    "price": 560
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Mumbai",
+    "busType": "Seater",
+    "departure": "11:30",
+    "operator": "Greenline",
+    "price": 835
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Hyderabad",
+    "busType": "Non-AC Sleeper",
+    "departure": "21:00",
+    "operator": "Parveen Travels",
+    "price": 607
+  },
+  {
+    "pickup": "Nagpur",
+    "destination": "Tirunelveli",
+    "busType": "AC Sleeper",
+    "departure": "04:30",
+    "operator": "Parveen Travels",
+    "price": 718
+  },
+  {
+    "pickup": "Erode",
+    "destination": "Bangalore",
+    "busType": "Seater",
+    "departure": "00:00",
+    "operator": "Greenline",
+    "price": 1044
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Nagpur",
+    "busType": "AC Sleeper",
+    "departure": "02:15",
+    "operator": "VRL",
+    "price": 596
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Nagpur",
+    "busType": "AC Sleeper",
+    "departure": "01:15",
+    "operator": "KPN Travels",
+    "price": 1192
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Chennai",
+    "busType": "Non-AC Sleeper",
+    "departure": "22:45",
+    "operator": "SRS Travels",
+    "price": 571
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Chennai",
+    "busType": "Luxury Coach",
+    "departure": "00:00",
+    "operator": "Greenline",
+    "price": 1191
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Nagpur",
+    "busType": "Non-AC Sleeper",
+    "departure": "12:00",
+    "operator": "Greenline",
+    "price": 1018
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Chennai",
+    "busType": "Seater",
+    "departure": "09:15",
+    "operator": "Greenline",
+    "price": 875
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Mumbai",
+    "busType": "Non-AC Sleeper",
+    "departure": "18:15",
+    "operator": "SRS Travels",
+    "price": 737
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Ahmedabad",
+    "busType": "Luxury Coach",
+    "departure": "13:30",
+    "operator": "KPN Travels",
+    "price": 789
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Visakhapatnam",
+    "busType": "Seater",
+    "departure": "16:15",
+    "operator": "SRS Travels",
+    "price": 1133
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Coimbatore",
+    "busType": "Non-AC Sleeper",
+    "departure": "17:00",
+    "operator": "Orange Tours",
+    "price": 1097
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Coimbatore",
+    "busType": "AC Sleeper",
+    "departure": "08:30",
+    "operator": "Greenline",
+    "price": 1143
+  },
+  {
+    "pickup": "Nagpur",
+    "destination": "Kolkata",
+    "busType": "Luxury Coach",
+    "departure": "06:45",
+    "operator": "Orange Tours",
+    "price": 720
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Nagpur",
+    "busType": "Non-AC Sleeper",
+    "departure": "06:15",
+    "operator": "Orange Tours",
+    "price": 575
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Trichy",
+    "busType": "Seater",
+    "departure": "05:00",
+    "operator": "KPN Travels",
+    "price": 1116
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Salem",
+    "busType": "Luxury Coach",
+    "departure": "16:00",
+    "operator": "Greenline",
+    "price": 852
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Bangalore",
+    "busType": "Non-AC Sleeper",
+    "departure": "21:15",
+    "operator": "Parveen Travels",
+    "price": 696
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Erode",
+    "busType": "AC Sleeper",
+    "departure": "10:45",
+    "operator": "VRL",
+    "price": 412
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Chennai",
+    "busType": "AC Sleeper",
+    "departure": "09:30",
+    "operator": "KPN Travels",
+    "price": 858
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Visakhapatnam",
+    "busType": "Seater",
+    "departure": "09:15",
+    "operator": "VRL",
+    "price": 957
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Tirunelveli",
+    "busType": "AC Sleeper",
+    "departure": "17:30",
+    "operator": "Parveen Travels",
+    "price": 438
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Coimbatore",
+    "busType": "Seater",
+    "departure": "06:45",
+    "operator": "Parveen Travels",
+    "price": 1100
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Mumbai",
+    "busType": "AC Sleeper",
+    "departure": "17:00",
+    "operator": "Parveen Travels",
+    "price": 986
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Mumbai",
+    "busType": "Non-AC Sleeper",
+    "departure": "00:15",
+    "operator": "KPN Travels",
+    "price": 700
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Visakhapatnam",
+    "busType": "Seater",
+    "departure": "07:30",
+    "operator": "SRS Travels",
+    "price": 794
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Bangalore",
+    "busType": "AC Sleeper",
+    "departure": "13:15",
+    "operator": "Greenline",
+    "price": 445
+  },
+  {
+    "pickup": "Nagpur",
+    "destination": "Chennai",
+    "busType": "AC Sleeper",
+    "departure": "13:15",
+    "operator": "KPN Travels",
+    "price": 1043
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Trichy",
+    "busType": "Non-AC Sleeper",
+    "departure": "20:45",
+    "operator": "SRS Travels",
+    "price": 917
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Erode",
+    "busType": "Non-AC Sleeper",
+    "departure": "07:45",
+    "operator": "Parveen Travels",
+    "price": 1190
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Hyderabad",
+    "busType": "Luxury Coach",
+    "departure": "02:30",
+    "operator": "VRL",
+    "price": 891
+  },
+  {
+    "pickup": "Coimbatore",
+    "destination": "Bangalore",
+    "busType": "Luxury Coach",
+    "departure": "16:00",
+    "operator": "KPN Travels",
+    "price": 456
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Mumbai",
+    "busType": "Luxury Coach",
+    "departure": "12:45",
+    "operator": "Greenline",
+    "price": 1077
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Pune",
+    "busType": "AC Sleeper",
+    "departure": "19:15",
+    "operator": "Parveen Travels",
+    "price": 1013
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Madurai",
+    "busType": "Seater",
+    "departure": "06:00",
+    "operator": "Parveen Travels",
+    "price": 400
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Coimbatore",
+    "busType": "Non-AC Sleeper",
+    "departure": "16:15",
+    "operator": "Greenline",
+    "price": 1149
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Chennai",
+    "busType": "AC Sleeper",
+    "departure": "07:30",
+    "operator": "Orange Tours",
+    "price": 998
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Ahmedabad",
+    "busType": "Luxury Coach",
+    "departure": "09:00",
+    "operator": "SRS Travels",
+    "price": 1017
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Erode",
+    "busType": "AC Sleeper",
+    "departure": "07:15",
+    "operator": "SRS Travels",
+    "price": 1065
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Chennai",
+    "busType": "Luxury Coach",
+    "departure": "08:15",
+    "operator": "SRS Travels",
+    "price": 1136
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Hyderabad",
+    "busType": "Seater",
+    "departure": "19:45",
+    "operator": "VRL",
+    "price": 1016
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Ahmedabad",
+    "busType": "Seater",
+    "departure": "08:30",
+    "operator": "SRS Travels",
+    "price": 496
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Trichy",
+    "busType": "Non-AC Sleeper",
+    "departure": "05:45",
+    "operator": "Parveen Travels",
+    "price": 613
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Delhi",
+    "busType": "Luxury Coach",
+    "departure": "21:15",
+    "operator": "SRS Travels",
+    "price": 1067
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Pune",
+    "busType": "Non-AC Sleeper",
+    "departure": "18:30",
+    "operator": "Orange Tours",
+    "price": 827
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Erode",
+    "busType": "Seater",
+    "departure": "00:30",
+    "operator": "SRS Travels",
+    "price": 1044
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Delhi",
+    "busType": "Seater",
+    "departure": "02:00",
+    "operator": "KPN Travels",
+    "price": 1167
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Chennai",
+    "busType": "Seater",
+    "departure": "21:00",
+    "operator": "SRS Travels",
+    "price": 400
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Madurai",
+    "busType": "Seater",
+    "departure": "07:15",
+    "operator": "SRS Travels",
+    "price": 1069
+  },
+  {
+    "pickup": "Nagpur",
+    "destination": "Madurai",
+    "busType": "Non-AC Sleeper",
+    "departure": "09:15",
+    "operator": "Greenline",
+    "price": 549
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Tirunelveli",
+    "busType": "Non-AC Sleeper",
+    "departure": "05:15",
+    "operator": "Greenline",
+    "price": 718
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Delhi",
+    "busType": "Non-AC Sleeper",
+    "departure": "23:45",
+    "operator": "Orange Tours",
+    "price": 1007
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Chennai",
+    "busType": "AC Sleeper",
+    "departure": "09:30",
+    "operator": "VRL",
+    "price": 808
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Nagpur",
+    "busType": "Luxury Coach",
+    "departure": "22:00",
+    "operator": "KPN Travels",
+    "price": 697
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Erode",
+    "busType": "AC Sleeper",
+    "departure": "12:15",
+    "operator": "KPN Travels",
+    "price": 1200
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Kolkata",
+    "busType": "Luxury Coach",
+    "departure": "15:15",
+    "operator": "Orange Tours",
+    "price": 421
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Mumbai",
+    "busType": "Non-AC Sleeper",
+    "departure": "11:45",
+    "operator": "Parveen Travels",
+    "price": 741
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Tirunelveli",
+    "busType": "Luxury Coach",
+    "departure": "23:30",
+    "operator": "Parveen Travels",
+    "price": 1084
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Salem",
+    "busType": "Seater",
+    "departure": "21:15",
+    "operator": "Orange Tours",
+    "price": 465
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Chennai",
+    "busType": "Non-AC Sleeper",
+    "departure": "13:15",
+    "operator": "Parveen Travels",
+    "price": 761
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Ahmedabad",
+    "busType": "Luxury Coach",
+    "departure": "02:00",
+    "operator": "VRL",
+    "price": 721
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Visakhapatnam",
+    "busType": "AC Sleeper",
+    "departure": "02:00",
+    "operator": "VRL",
+    "price": 1121
+  },
+  {
+    "pickup": "Erode",
+    "destination": "Kolkata",
+    "busType": "Luxury Coach",
+    "departure": "11:30",
+    "operator": "VRL",
+    "price": 456
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Tirunelveli",
+    "busType": "Seater",
+    "departure": "04:00",
+    "operator": "SRS Travels",
+    "price": 734
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Erode",
+    "busType": "Non-AC Sleeper",
+    "departure": "14:00",
+    "operator": "Parveen Travels",
+    "price": 1122
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Chennai",
+    "busType": "Luxury Coach",
+    "departure": "00:45",
+    "operator": "Parveen Travels",
+    "price": 582
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Pune",
+    "busType": "AC Sleeper",
+    "departure": "00:15",
+    "operator": "Parveen Travels",
+    "price": 826
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Trichy",
+    "busType": "Non-AC Sleeper",
+    "departure": "09:30",
+    "operator": "KPN Travels",
+    "price": 514
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Bangalore",
+    "busType": "Luxury Coach",
+    "departure": "08:15",
+    "operator": "SRS Travels",
+    "price": 439
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Erode",
+    "busType": "Seater",
+    "departure": "06:00",
+    "operator": "Orange Tours",
+    "price": 771
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Trichy",
+    "busType": "Non-AC Sleeper",
+    "departure": "09:00",
+    "operator": "Greenline",
+    "price": 432
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Coimbatore",
+    "busType": "Luxury Coach",
+    "departure": "00:15",
+    "operator": "VRL",
+    "price": 633
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Salem",
+    "busType": "AC Sleeper",
+    "departure": "07:30",
+    "operator": "KPN Travels",
+    "price": 536
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Kolkata",
+    "busType": "Non-AC Sleeper",
+    "departure": "15:30",
+    "operator": "Orange Tours",
+    "price": 1093
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Salem",
+    "busType": "Seater",
+    "departure": "05:00",
+    "operator": "Greenline",
+    "price": 815
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Visakhapatnam",
+    "busType": "Non-AC Sleeper",
+    "departure": "13:00",
+    "operator": "Orange Tours",
+    "price": 824
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Visakhapatnam",
+    "busType": "Seater",
+    "departure": "08:45",
+    "operator": "VRL",
+    "price": 789
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Chennai",
+    "busType": "AC Sleeper",
+    "departure": "19:30",
+    "operator": "SRS Travels",
+    "price": 1073
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Erode",
+    "busType": "AC Sleeper",
+    "departure": "06:00",
+    "operator": "Parveen Travels",
+    "price": 619
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Madurai",
+    "busType": "Non-AC Sleeper",
+    "departure": "05:15",
+    "operator": "SRS Travels",
+    "price": 579
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Erode",
+    "busType": "Luxury Coach",
+    "departure": "08:30",
+    "operator": "Greenline",
+    "price": 859
+  },
+  {
+    "pickup": "Coimbatore",
+    "destination": "Chennai",
+    "busType": "Non-AC Sleeper",
+    "departure": "14:30",
+    "operator": "VRL",
+    "price": 744
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Salem",
+    "busType": "AC Sleeper",
+    "departure": "16:00",
+    "operator": "SRS Travels",
+    "price": 847
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Mumbai",
+    "busType": "Non-AC Sleeper",
+    "departure": "22:30",
+    "operator": "Parveen Travels",
+    "price": 755
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Salem",
+    "busType": "Non-AC Sleeper",
+    "departure": "22:00",
+    "operator": "VRL",
+    "price": 670
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Delhi",
+    "busType": "AC Sleeper",
+    "departure": "08:15",
+    "operator": "KPN Travels",
+    "price": 1049
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Salem",
+    "busType": "Luxury Coach",
+    "departure": "18:45",
+    "operator": "Orange Tours",
+    "price": 807
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Ahmedabad",
+    "busType": "Non-AC Sleeper",
+    "departure": "14:30",
+    "operator": "VRL",
+    "price": 1051
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Mumbai",
+    "busType": "Luxury Coach",
+    "departure": "23:15",
+    "operator": "KPN Travels",
+    "price": 561
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Coimbatore",
+    "busType": "Non-AC Sleeper",
+    "departure": "17:15",
+    "operator": "Greenline",
+    "price": 1168
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Ahmedabad",
+    "busType": "Luxury Coach",
+    "departure": "21:00",
+    "operator": "KPN Travels",
+    "price": 1018
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Madurai",
+    "busType": "Non-AC Sleeper",
+    "departure": "22:45",
+    "operator": "KPN Travels",
+    "price": 616
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Kolkata",
+    "busType": "Non-AC Sleeper",
+    "departure": "04:15",
+    "operator": "Orange Tours",
+    "price": 1150
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Madurai",
+    "busType": "Luxury Coach",
+    "departure": "16:15",
+    "operator": "VRL",
+    "price": 1184
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Erode",
+    "busType": "AC Sleeper",
+    "departure": "07:45",
+    "operator": "KPN Travels",
+    "price": 772
+  },
+  {
+    "pickup": "Coimbatore",
+    "destination": "Ahmedabad",
+    "busType": "Non-AC Sleeper",
+    "departure": "01:30",
+    "operator": "Orange Tours",
+    "price": 812
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Madurai",
+    "busType": "Luxury Coach",
+    "departure": "19:00",
+    "operator": "Orange Tours",
+    "price": 602
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Coimbatore",
+    "busType": "Seater",
+    "departure": "07:15",
+    "operator": "Parveen Travels",
+    "price": 567
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Tirunelveli",
+    "busType": "Luxury Coach",
+    "departure": "19:00",
+    "operator": "SRS Travels",
+    "price": 978
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Salem",
+    "busType": "Seater",
+    "departure": "01:45",
+    "operator": "KPN Travels",
+    "price": 1171
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Salem",
+    "busType": "Seater",
+    "departure": "02:45",
+    "operator": "Greenline",
+    "price": 912
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Bangalore",
+    "busType": "Non-AC Sleeper",
+    "departure": "03:00",
+    "operator": "SRS Travels",
+    "price": 971
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Ahmedabad",
+    "busType": "Luxury Coach",
+    "departure": "13:00",
+    "operator": "SRS Travels",
+    "price": 750
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Chennai",
+    "busType": "AC Sleeper",
+    "departure": "05:45",
+    "operator": "Greenline",
+    "price": 952
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Visakhapatnam",
+    "busType": "AC Sleeper",
+    "departure": "14:15",
+    "operator": "VRL",
+    "price": 561
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Salem",
+    "busType": "Non-AC Sleeper",
+    "departure": "01:45",
+    "operator": "KPN Travels",
+    "price": 556
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Kolkata",
+    "busType": "Seater",
+    "departure": "00:45",
+    "operator": "VRL",
+    "price": 566
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Mumbai",
+    "busType": "Seater",
+    "departure": "02:45",
+    "operator": "Greenline",
+    "price": 687
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Delhi",
+    "busType": "Seater",
+    "departure": "22:30",
+    "operator": "Orange Tours",
+    "price": 915
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Mumbai",
+    "busType": "AC Sleeper",
+    "departure": "15:45",
+    "operator": "Parveen Travels",
+    "price": 576
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Pune",
+    "busType": "Non-AC Sleeper",
+    "departure": "16:15",
+    "operator": "VRL",
+    "price": 906
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Visakhapatnam",
+    "busType": "Luxury Coach",
+    "departure": "23:30",
+    "operator": "KPN Travels",
+    "price": 827
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Mumbai",
+    "busType": "AC Sleeper",
+    "departure": "12:30",
+    "operator": "VRL",
+    "price": 416
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Salem",
+    "busType": "Seater",
+    "departure": "17:45",
+    "operator": "KPN Travels",
+    "price": 454
+  },
+  {
+    "pickup": "Erode",
+    "destination": "Pune",
+    "busType": "Luxury Coach",
+    "departure": "16:45",
+    "operator": "SRS Travels",
+    "price": 1127
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Nagpur",
+    "busType": "AC Sleeper",
+    "departure": "20:30",
+    "operator": "VRL",
+    "price": 421
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Mumbai",
+    "busType": "Non-AC Sleeper",
+    "departure": "06:15",
+    "operator": "SRS Travels",
+    "price": 910
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Visakhapatnam",
+    "busType": "Luxury Coach",
+    "departure": "01:30",
+    "operator": "KPN Travels",
+    "price": 617
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Nagpur",
+    "busType": "Luxury Coach",
+    "departure": "21:00",
+    "operator": "KPN Travels",
+    "price": 891
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Nagpur",
+    "busType": "Non-AC Sleeper",
+    "departure": "06:15",
+    "operator": "KPN Travels",
+    "price": 684
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Erode",
+    "busType": "Luxury Coach",
+    "departure": "21:15",
+    "operator": "SRS Travels",
+    "price": 1122
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Trichy",
+    "busType": "Seater",
+    "departure": "11:30",
+    "operator": "Orange Tours",
+    "price": 707
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Pune",
+    "busType": "AC Sleeper",
+    "departure": "19:45",
+    "operator": "Parveen Travels",
+    "price": 1044
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Erode",
+    "busType": "AC Sleeper",
+    "departure": "11:00",
+    "operator": "Orange Tours",
+    "price": 835
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Hyderabad",
+    "busType": "Seater",
+    "departure": "03:15",
+    "operator": "Parveen Travels",
+    "price": 656
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Hyderabad",
+    "busType": "Seater",
+    "departure": "00:15",
+    "operator": "Parveen Travels",
+    "price": 1148
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Delhi",
+    "busType": "AC Sleeper",
+    "departure": "17:45",
+    "operator": "Orange Tours",
+    "price": 849
+  },
+  {
+    "pickup": "Erode",
+    "destination": "Hyderabad",
+    "busType": "Luxury Coach",
+    "departure": "01:30",
+    "operator": "KPN Travels",
+    "price": 1143
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Madurai",
+    "busType": "AC Sleeper",
+    "departure": "14:45",
+    "operator": "VRL",
+    "price": 693
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Visakhapatnam",
+    "busType": "Luxury Coach",
+    "departure": "09:30",
+    "operator": "SRS Travels",
+    "price": 1139
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Madurai",
+    "busType": "Non-AC Sleeper",
+    "departure": "19:30",
+    "operator": "VRL",
+    "price": 681
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Trichy",
+    "busType": "Luxury Coach",
+    "departure": "02:15",
+    "operator": "Greenline",
+    "price": 974
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Salem",
+    "busType": "Non-AC Sleeper",
+    "departure": "22:45",
+    "operator": "Parveen Travels",
+    "price": 489
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Delhi",
+    "busType": "Non-AC Sleeper",
+    "departure": "01:30",
+    "operator": "KPN Travels",
+    "price": 908
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Ahmedabad",
+    "busType": "AC Sleeper",
+    "departure": "06:30",
+    "operator": "SRS Travels",
+    "price": 1071
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Salem",
+    "busType": "Non-AC Sleeper",
+    "departure": "19:15",
+    "operator": "VRL",
+    "price": 821
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Erode",
+    "busType": "AC Sleeper",
+    "departure": "13:15",
+    "operator": "VRL",
+    "price": 762
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Trichy",
+    "busType": "Seater",
+    "departure": "09:00",
+    "operator": "Greenline",
+    "price": 1004
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Hyderabad",
+    "busType": "Seater",
+    "departure": "16:45",
+    "operator": "SRS Travels",
+    "price": 1075
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Nagpur",
+    "busType": "Seater",
+    "departure": "10:45",
+    "operator": "Orange Tours",
+    "price": 1051
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Coimbatore",
+    "busType": "Seater",
+    "departure": "08:15",
+    "operator": "SRS Travels",
+    "price": 1023
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Pune",
+    "busType": "Non-AC Sleeper",
+    "departure": "02:15",
+    "operator": "KPN Travels",
+    "price": 766
+  },
+  {
+    "pickup": "Erode",
+    "destination": "Trichy",
+    "busType": "AC Sleeper",
+    "departure": "00:15",
+    "operator": "VRL",
+    "price": 1124
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Erode",
+    "busType": "Non-AC Sleeper",
+    "departure": "20:45",
+    "operator": "VRL",
+    "price": 514
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Chennai",
+    "busType": "Luxury Coach",
+    "departure": "15:45",
+    "operator": "KPN Travels",
+    "price": 772
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Nagpur",
+    "busType": "Non-AC Sleeper",
+    "departure": "02:30",
+    "operator": "SRS Travels",
+    "price": 599
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Kolkata",
+    "busType": "Seater",
+    "departure": "00:00",
+    "operator": "Orange Tours",
+    "price": 963
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Delhi",
+    "busType": "Luxury Coach",
+    "departure": "19:15",
+    "operator": "KPN Travels",
+    "price": 872
+  },
+  {
+    "pickup": "Coimbatore",
+    "destination": "Ahmedabad",
+    "busType": "Non-AC Sleeper",
+    "departure": "16:00",
+    "operator": "SRS Travels",
+    "price": 460
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Visakhapatnam",
+    "busType": "AC Sleeper",
+    "departure": "23:45",
+    "operator": "Orange Tours",
+    "price": 1009
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Madurai",
+    "busType": "Luxury Coach",
+    "departure": "04:15",
+    "operator": "Parveen Travels",
+    "price": 1020
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Visakhapatnam",
+    "busType": "Non-AC Sleeper",
+    "departure": "23:45",
+    "operator": "Parveen Travels",
+    "price": 762
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Coimbatore",
+    "busType": "AC Sleeper",
+    "departure": "09:45",
+    "operator": "SRS Travels",
+    "price": 1023
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Mumbai",
+    "busType": "Non-AC Sleeper",
+    "departure": "18:45",
+    "operator": "VRL",
+    "price": 1170
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Coimbatore",
+    "busType": "Luxury Coach",
+    "departure": "20:30",
+    "operator": "VRL",
+    "price": 818
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Ahmedabad",
+    "busType": "Luxury Coach",
+    "departure": "00:45",
+    "operator": "VRL",
+    "price": 774
+  },
+  {
+    "pickup": "Nagpur",
+    "destination": "Hyderabad",
+    "busType": "Seater",
+    "departure": "08:00",
+    "operator": "KPN Travels",
+    "price": 857
+  },
+  {
+    "pickup": "Salem",
+    "destination": "Delhi",
+    "busType": "Luxury Coach",
+    "departure": "23:00",
+    "operator": "KPN Travels",
+    "price": 947
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Salem",
+    "busType": "Non-AC Sleeper",
+    "departure": "18:15",
+    "operator": "SRS Travels",
+    "price": 519
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Coimbatore",
+    "busType": "Seater",
+    "departure": "00:45",
+    "operator": "Orange Tours",
+    "price": 737
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Madurai",
+    "busType": "Luxury Coach",
+    "departure": "05:00",
+    "operator": "KPN Travels",
+    "price": 409
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Pune",
+    "busType": "Non-AC Sleeper",
+    "departure": "00:00",
+    "operator": "SRS Travels",
+    "price": 1008
+  },
+  {
+    "pickup": "Nagpur",
+    "destination": "Erode",
+    "busType": "AC Sleeper",
+    "departure": "19:15",
+    "operator": "Orange Tours",
+    "price": 1003
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Salem",
+    "busType": "AC Sleeper",
+    "departure": "20:45",
+    "operator": "VRL",
+    "price": 1135
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Trichy",
+    "busType": "Luxury Coach",
+    "departure": "23:30",
+    "operator": "Orange Tours",
+    "price": 516
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Chennai",
+    "busType": "Seater",
+    "departure": "13:15",
+    "operator": "Orange Tours",
+    "price": 770
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Ahmedabad",
+    "busType": "Luxury Coach",
+    "departure": "00:00",
+    "operator": "Parveen Travels",
+    "price": 591
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Hyderabad",
+    "busType": "AC Sleeper",
+    "departure": "06:30",
+    "operator": "VRL",
+    "price": 629
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Tirunelveli",
+    "busType": "Seater",
+    "departure": "16:30",
+    "operator": "KPN Travels",
+    "price": 534
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Madurai",
+    "busType": "AC Sleeper",
+    "departure": "07:45",
+    "operator": "Parveen Travels",
+    "price": 852
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Pune",
+    "busType": "Non-AC Sleeper",
+    "departure": "22:00",
+    "operator": "SRS Travels",
+    "price": 886
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Ahmedabad",
+    "busType": "Non-AC Sleeper",
+    "departure": "07:30",
+    "operator": "SRS Travels",
+    "price": 560
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Pune",
+    "busType": "Seater",
+    "departure": "08:15",
+    "operator": "Parveen Travels",
+    "price": 1156
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Tirunelveli",
+    "busType": "Non-AC Sleeper",
+    "departure": "21:45",
+    "operator": "KPN Travels",
+    "price": 1113
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Coimbatore",
+    "busType": "Seater",
+    "departure": "13:45",
+    "operator": "Greenline",
+    "price": 773
+  },
+  {
+    "pickup": "Nagpur",
+    "destination": "Delhi",
+    "busType": "Seater",
+    "departure": "17:45",
+    "operator": "SRS Travels",
+    "price": 499
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Delhi",
+    "busType": "AC Sleeper",
+    "departure": "15:30",
+    "operator": "Greenline",
+    "price": 683
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Visakhapatnam",
+    "busType": "Luxury Coach",
+    "departure": "20:00",
+    "operator": "SRS Travels",
+    "price": 641
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Bangalore",
+    "busType": "AC Sleeper",
+    "departure": "00:00",
+    "operator": "SRS Travels",
+    "price": 565
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Hyderabad",
+    "busType": "Seater",
+    "departure": "05:30",
+    "operator": "Greenline",
+    "price": 1189
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Salem",
+    "busType": "Luxury Coach",
+    "departure": "06:15",
+    "operator": "SRS Travels",
+    "price": 520
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Trichy",
+    "busType": "AC Sleeper",
+    "departure": "13:15",
+    "operator": "VRL",
+    "price": 1107
+  },
+  {
+    "pickup": "Nagpur",
+    "destination": "Hyderabad",
+    "busType": "Luxury Coach",
+    "departure": "06:30",
+    "operator": "SRS Travels",
+    "price": 777
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Ahmedabad",
+    "busType": "AC Sleeper",
+    "departure": "01:45",
+    "operator": "Greenline",
+    "price": 608
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Coimbatore",
+    "busType": "Luxury Coach",
+    "departure": "22:15",
+    "operator": "VRL",
+    "price": 747
+  },
+  {
+    "pickup": "Coimbatore",
+    "destination": "Bangalore",
+    "busType": "Seater",
+    "departure": "09:45",
+    "operator": "VRL",
+    "price": 1013
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Kolkata",
+    "busType": "Luxury Coach",
+    "departure": "02:30",
+    "operator": "Greenline",
+    "price": 995
+  },
+  {
+    "pickup": "Erode",
+    "destination": "Madurai",
+    "busType": "Luxury Coach",
+    "departure": "19:45",
+    "operator": "VRL",
+    "price": 1145
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Delhi",
+    "busType": "Non-AC Sleeper",
+    "departure": "03:15",
+    "operator": "KPN Travels",
+    "price": 1150
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Nagpur",
+    "busType": "Non-AC Sleeper",
+    "departure": "04:30",
+    "operator": "KPN Travels",
+    "price": 632
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Tirunelveli",
+    "busType": "AC Sleeper",
+    "departure": "22:30",
+    "operator": "Orange Tours",
+    "price": 835
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Bangalore",
+    "busType": "AC Sleeper",
+    "departure": "08:45",
+    "operator": "KPN Travels",
+    "price": 537
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Pune",
+    "busType": "AC Sleeper",
+    "departure": "00:00",
+    "operator": "Greenline",
+    "price": 461
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Visakhapatnam",
+    "busType": "Luxury Coach",
+    "departure": "00:15",
+    "operator": "Parveen Travels",
+    "price": 784
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Visakhapatnam",
+    "busType": "AC Sleeper",
+    "departure": "20:30",
+    "operator": "KPN Travels",
+    "price": 414
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Mumbai",
+    "busType": "Luxury Coach",
+    "departure": "21:15",
+    "operator": "KPN Travels",
+    "price": 888
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Salem",
+    "busType": "Non-AC Sleeper",
+    "departure": "04:45",
+    "operator": "KPN Travels",
+    "price": 690
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Nagpur",
+    "busType": "Non-AC Sleeper",
+    "departure": "20:00",
+    "operator": "Parveen Travels",
+    "price": 489
+  },
+  {
+    "pickup": "Delhi",
+    "destination": "Madurai",
+    "busType": "Non-AC Sleeper",
+    "departure": "09:45",
+    "operator": "Parveen Travels",
+    "price": 920
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Salem",
+    "busType": "Non-AC Sleeper",
+    "departure": "06:45",
+    "operator": "SRS Travels",
+    "price": 1131
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Madurai",
+    "busType": "Luxury Coach",
+    "departure": "22:00",
+    "operator": "SRS Travels",
+    "price": 514
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Pune",
+    "busType": "AC Sleeper",
+    "departure": "00:15",
+    "operator": "SRS Travels",
+    "price": 530
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Nagpur",
+    "busType": "AC Sleeper",
+    "departure": "09:00",
+    "operator": "SRS Travels",
+    "price": 1107
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Nagpur",
+    "busType": "Luxury Coach",
+    "departure": "14:30",
+    "operator": "Parveen Travels",
+    "price": 795
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Bangalore",
+    "busType": "Seater",
+    "departure": "12:15",
+    "operator": "VRL",
+    "price": 796
+  },
+  {
+    "pickup": "Erode",
+    "destination": "Delhi",
+    "busType": "Luxury Coach",
+    "departure": "03:00",
+    "operator": "KPN Travels",
+    "price": 860
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Salem",
+    "busType": "Non-AC Sleeper",
+    "departure": "04:15",
+    "operator": "Orange Tours",
+    "price": 1032
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Salem",
+    "busType": "Seater",
+    "departure": "03:15",
+    "operator": "SRS Travels",
+    "price": 1113
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Coimbatore",
+    "busType": "Seater",
+    "departure": "09:45",
+    "operator": "VRL",
+    "price": 468
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Delhi",
+    "busType": "AC Sleeper",
+    "departure": "08:45",
+    "operator": "Parveen Travels",
+    "price": 1140
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Ahmedabad",
+    "busType": "AC Sleeper",
+    "departure": "21:15",
+    "operator": "VRL",
+    "price": 970
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Delhi",
+    "busType": "Non-AC Sleeper",
+    "departure": "18:30",
+    "operator": "Greenline",
+    "price": 444
+  },
+  {
+    "pickup": "Hyderabad",
+    "destination": "Bangalore",
+    "busType": "Luxury Coach",
+    "departure": "13:30",
+    "operator": "VRL",
+    "price": 662
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Bangalore",
+    "busType": "AC Sleeper",
+    "departure": "01:30",
+    "operator": "VRL",
+    "price": 881
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Coimbatore",
+    "busType": "AC Sleeper",
+    "departure": "18:45",
+    "operator": "VRL",
+    "price": 1162
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Pune",
+    "busType": "AC Sleeper",
+    "departure": "21:15",
+    "operator": "Greenline",
+    "price": 782
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Mumbai",
+    "busType": "Seater",
+    "departure": "07:30",
+    "operator": "SRS Travels",
+    "price": 488
+  },
+  {
+    "pickup": "Mumbai",
+    "destination": "Bangalore",
+    "busType": "Non-AC Sleeper",
+    "departure": "22:30",
+    "operator": "KPN Travels",
+    "price": 1061
+  },
+  {
+    "pickup": "Nagpur",
+    "destination": "Kolkata",
+    "busType": "Seater",
+    "departure": "14:30",
+    "operator": "Greenline",
+    "price": 1100
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Hyderabad",
+    "busType": "Non-AC Sleeper",
+    "departure": "17:30",
+    "operator": "VRL",
+    "price": 465
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Bangalore",
+    "busType": "Luxury Coach",
+    "departure": "03:00",
+    "operator": "Greenline",
+    "price": 812
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Visakhapatnam",
+    "busType": "Non-AC Sleeper",
+    "departure": "04:45",
+    "operator": "Parveen Travels",
+    "price": 592
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Pune",
+    "busType": "AC Sleeper",
+    "departure": "00:15",
+    "operator": "VRL",
+    "price": 844
+  },
+  {
+    "pickup": "Nagpur",
+    "destination": "Hyderabad",
+    "busType": "AC Sleeper",
+    "departure": "04:15",
+    "operator": "Parveen Travels",
+    "price": 898
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Kolkata",
+    "busType": "Seater",
+    "departure": "19:15",
+    "operator": "Parveen Travels",
+    "price": 1165
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Kolkata",
+    "busType": "AC Sleeper",
+    "departure": "03:15",
+    "operator": "VRL",
+    "price": 807
+  },
+  {
+    "pickup": "Visakhapatnam",
+    "destination": "Mumbai",
+    "busType": "Seater",
+    "departure": "01:45",
+    "operator": "KPN Travels",
+    "price": 1019
+  },
+  {
+    "pickup": "Pune",
+    "destination": "Tirunelveli",
+    "busType": "AC Sleeper",
+    "departure": "12:00",
+    "operator": "Orange Tours",
+    "price": 1095
+  },
+  {
+    "pickup": "Erode",
+    "destination": "Bangalore",
+    "busType": "Non-AC Sleeper",
+    "departure": "10:45",
+    "operator": "KPN Travels",
+    "price": 1175
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Nagpur",
+    "busType": "AC Sleeper",
+    "departure": "11:15",
+    "operator": "Greenline",
+    "price": 851
+  },
+  {
+    "pickup": "Madurai",
+    "destination": "Salem",
+    "busType": "Luxury Coach",
+    "departure": "08:15",
+    "operator": "VRL",
+    "price": 1006
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Trichy",
+    "busType": "Seater",
+    "departure": "15:30",
+    "operator": "Orange Tours",
+    "price": 470
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Nagpur",
+    "busType": "Luxury Coach",
+    "departure": "11:45",
+    "operator": "Parveen Travels",
+    "price": 786
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Salem",
+    "busType": "Luxury Coach",
+    "departure": "14:15",
+    "operator": "Orange Tours",
+    "price": 852
+  },
+  {
+    "pickup": "Kolkata",
+    "destination": "Trichy",
+    "busType": "Seater",
+    "departure": "03:30",
+    "operator": "Parveen Travels",
+    "price": 703
+  },
+  {
+    "pickup": "Trichy",
+    "destination": "Visakhapatnam",
+    "busType": "Luxury Coach",
+    "departure": "21:30",
+    "operator": "VRL",
+    "price": 777
+  },
+  {
+    "pickup": "Tirunelveli",
+    "destination": "Coimbatore",
+    "busType": "Luxury Coach",
+    "departure": "09:15",
+    "operator": "KPN Travels",
+    "price": 1195
+  },
+  {
+    "pickup": "Erode",
+    "destination": "Tirunelveli",
+    "busType": "AC Sleeper",
+    "departure": "06:00",
+    "operator": "VRL",
+    "price": 620
+  },
+  {
+    "pickup": "Ahmedabad",
+    "destination": "Visakhapatnam",
+    "busType": "Non-AC Sleeper",
+    "departure": "02:45",
+    "operator": "KPN Travels",
+    "price": 512
+  },
+  {
+    "pickup": "Bangalore",
+    "destination": "Coimbatore",
+    "busType": "AC Sleeper",
+    "departure": "17:15",
+    "operator": "Parveen Travels",
+    "price": 532
+  },
+  {
+    "pickup": "Chennai",
+    "destination": "Visakhapatnam",
+    "busType": "Seater",
+    "departure": "21:30",
+    "operator": "Orange Tours",
+    "price": 940
+  },
+  {
+    "pickup": "Coimbatore",
+    "destination": "Visakhapatnam",
+    "busType": "Seater",
+    "departure": "13:15",
+    "operator": "Orange Tours",
+    "price": 1041
+  }
+]

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Welcome - Spark Travels</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e') no-repeat center center/cover;
+      height: 100vh;
+      color: #fff;
+    }
+
+    .overlay {
+      background-color: rgba(0, 0, 0, 0.6);
+      height: 100%;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 3.5rem;
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.2rem;
+      margin-bottom: 40px;
+    }
+
+    .options {
+      display: flex;
+      gap: 30px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .card {
+      background-color: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      border-radius: 15px;
+      width: 260px;
+      padding: 25px 20px;
+      text-align: center;
+      transition: transform 0.3s ease, background-color 0.3s ease;
+      cursor: pointer;
+      backdrop-filter: blur(10px);
+    }
+
+    .card:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+      transform: translateY(-10px);
+    }
+
+    .card h2 {
+      font-size: 1.6rem;
+      margin-bottom: 10px;
+    }
+
+    .card p {
+      font-size: 1rem;
+    }
+
+    footer {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      color: #ccc;
+      text-align: center;
+      padding: 12px 0;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <h1>Welcome to Spark Travels</h1>
+    <p>Your gateway to the world's best travel and tourism experiences</p>
+
+    <div class="options">
+      <div class="card" onclick="location.href='travel.html'">
+        <h2>Travel</h2>
+        <p>Discover your next adventure. Flights, hotels, and more.</p>
+      </div>
+      <div class="card" onclick="location.href='tourism.html'">
+        <h2>Tourism</h2>
+        <p>Explore cultural landmarks, attractions, and guided tours.</p>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Spark Travels. All rights reserved.
+  </footer>
+</body>
+</html>
